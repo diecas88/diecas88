@@ -8,27 +8,27 @@ I like going hiking, cooking, watch tv series and learn languages (english & fre
 
 ## My skills
 
-PHP 
-Codeigniter (php framework)
-Javascript
-Jquery (js library)
-CSS (basics skills)
-HTML5
-Bulma CSS
-Bootstrap
-Oracle 
-MySQL
-MariaDB
-Posgrest
-Power BI
+* PHP 
+* Codeigniter (php framework)
+* Javascript
+* Jquery (js library)
+* CSS (basics skills)
+* HTML5
+* Bulma CSS
+* Bootstrap
+* Oracle 
+* MySQL
+* MariaDB
+* Posgrest
+* Power BI
 
 ## I'm learning
 
-Angular
-R language
-Python 3
-MongoDB
-Firebase
+* Angular
+* R language
+* Python 3
+* MongoDB
+* Firebase
 
 
 <!--
