@@ -30,6 +30,11 @@ I like going hiking, cooking, watch tv series and learn languages (english & fre
 * MongoDB
 * Firebase
 
+### Follow me
+
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/castellanosdiego/)
+&nbsp;
+[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/diecas88)
 
 <!--
 **diecas88/diecas88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
