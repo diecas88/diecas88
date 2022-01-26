@@ -1,13 +1,27 @@
 #  My profile
 
-Hi there, I'm from Bucaramanga, Colombia 🇨🇴 . I'm an enthusiastic about tech and software development, currently I'm working as developer in a fintech company.
-My experience as developer consist in 3+ years programming ```PHP```, ```Javascript```, ```Oracle```, ```MySQL```, ```Posgrest```.
-Currently I'm interested about statitics, data science and business intelligence. 
+Hi there, I'm from Bucaramanga, Colombia 🇨🇴 . I'm an enthusiastic about tech, software development and data science, I have workend in different companies as software developer, reporting, data analyst and data engineer, currently I'm working as data analyst in a BPO company.
+
+My experience consist in 3+ years programming ```PHP```, ```Javascript```, ```Oracle```, ```MySQL```, ```Posgrest```, 2+ as data analyst & data engineer using BI tools as ```Power BI```, ```QlikView```, ```SSIS```, ```SQL Server```.
+Currently I'm interested about statistics, data science and business intelligence. 
 
 I like going hiking, cooking, watch tv series and learn languages (english & french).
 
 ## My skills
 
+* Power BI
+* Jupyter Notebooks
+* QlikView
+* SQL Server
+* SSIS
+* ETL developer
+* Data Analitys
+* Exploratory Data Visualization
+* Python
+* Oracle 
+* MySQL
+* MariaDB
+* Posgrest
 * PHP 
 * Codeigniter (php framework)
 * Javascript
@@ -16,19 +30,7 @@ I like going hiking, cooking, watch tv series and learn languages (english & fre
 * HTML5
 * Bulma CSS
 * Bootstrap
-* Oracle 
-* MySQL
-* MariaDB
-* Posgrest
-* Power BI
 
-## I'm learning
-
-* Angular
-* R language
-* Python 3
-* MongoDB
-* Firebase
 
 ### Follow me
 
